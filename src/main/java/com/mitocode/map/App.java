@@ -7,8 +7,10 @@ import java.util.stream.Collectors;
 
 public class App {
 
+	// Atrubutos
 	private Map<Integer, String> map;
 
+	// Métodos
 	public void poblar() {
 		map = new HashMap<>();
 		map.put(1, "Mito");
